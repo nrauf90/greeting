@@ -1,0 +1,17 @@
+{
+  "name": "nrauf90/greeting-composer",
+  "description": "A simple hello world composer package",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Muhammad Noman Rauf",
+      "email": "noman.rauf90@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {"nrauf90\\Greeting\\": "src/"}
+  },
+  "require": {}
+}
