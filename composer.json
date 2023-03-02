@@ -1,5 +1,5 @@
 {
-  "name": "nrauf90/greeting-composer",
+  "name": "nrauf90/greeting",
   "description": "A simple hello world composer package",
   "type": "library",
   "license": "MIT",
