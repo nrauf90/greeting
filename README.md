@@ -1,3 +1,3 @@
 # greeting-composer
 
-dummy composer package
+dummy composer package for the composer patches testing.
